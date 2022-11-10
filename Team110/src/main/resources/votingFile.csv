@@ -1,0 +1,11 @@
+Voter,Constituency,PollingStation,Candidate
+v0,Constituency 1,p2,Candidate 3
+v1,Constituency 3,p1,NOTA
+v2,Constituency 2,p0,Candidate 4
+v3,Constituency 2,p0,NOTA
+v4,Constituency 1,p2,NOTA
+v5,Constituency 3,p1,Candidate 2
+v6,Constituency 3,p1,Candidate 2
+v7,Constituency 1,p2,Candidate 6
+v8,Constituency 1,p2,NOTA
+v9,Constituency 3,p1,NOTA
