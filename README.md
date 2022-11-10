@@ -4,7 +4,7 @@
 2. Savani Kalekar
 3. Aditya Wadkar
 
-Problem Statement:
+#Problem Statement:
 
 The Election Commission of India announces assembly elections for Maharashtra state. Amid the Covid surge, for the convenience of voters, the election commission has increased the number of voting booths. The system has also been modernized to share the result in the evening, by the end of the day. However, every voter is allowed to vote only once. Voters should only vote at the constituency where they have registered themselves. On election day evening, the results will be announced. 
 
